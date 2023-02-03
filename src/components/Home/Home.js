@@ -8,7 +8,7 @@ function Home() {
       <div>
         <span className="tagline">JUST DO IT</span>
         <div className="tagline-para">
-          Nike has been your compaaaaanion in happiness, both big and small, for
+          Nike has been your companion in happiness, both big and small, for
           over 50 years. Our roots are firmly grounded in Mysore, India and with its
           people.
         </div>
@@ -18,7 +18,7 @@ function Home() {
         <br />
         <div className="latest-container">
           <hr className="line" /> &nbsp; &nbsp;
-          <span className="latest-designs">Latessssssst Designs</span>&nbsp;&nbsp;
+          <span className="latest-designs">Latest Designs</span>&nbsp;&nbsp;
           <hr className="line" />
           <br />
           <br />
